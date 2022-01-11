@@ -5,3 +5,4 @@
 - Java 8
 - Gradle 4.10.2
 - Spring Boot 2.1.9
+- Travis CI, AWS S3, AWS CodeDeploy, AWS EC2
