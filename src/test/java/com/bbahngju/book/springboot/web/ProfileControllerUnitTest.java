@@ -26,6 +26,7 @@ public class ProfileControllerUnitTest {
         assertThat(profile).isEqualTo(expectedProfile);
     }
 
+    @Test
     public void active_profile이_없으면_default가_조회된다() {
         //given
         String expectedProfile = "default";
